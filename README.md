@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### This is Divya Sarvepalli
+
 <!--
 **Divya-Sarvepalli/Divya-Sarvepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### About Me:
 - I'm currently studying my Master's in Applied Computer Science at NWMSU.
 - I'm learning Advanced Databases, Object Oriented Programming and Web Applications.
 - I've previously worked in **Infosys** as Systems Engineer.
