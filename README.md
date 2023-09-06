@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently studying my Master's in Applied Computer Science at NWMSU.
+- I'm learning Advanced Databases, Object Oriented Programming and Web Applications.
+- I've previously worked in **Infosys** as Systems Engineer.
+- My undergraduation was specialized in Computer Science with 7.12 GPA.
+- My Hobbies are enjoying nature, doing Arts & Crafts, listening to music and Photography.
